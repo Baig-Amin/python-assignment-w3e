@@ -11,5 +11,4 @@ for num in condition1:
     elif num > 150:
         continue
     else:
-        print(num,end = "")
-
+        print(num,end = " ")

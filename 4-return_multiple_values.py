@@ -1,7 +1,7 @@
 def calculator(a, b):
     sum = a + b
     sub = a - b
-    return sum,sub;
+    return sum,sub
 
 
 res = calculator(40,10)

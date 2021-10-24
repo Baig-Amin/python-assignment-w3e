@@ -8,4 +8,4 @@ sempleDict = {
 
 sempleDict['emp3']['Salary'] = 8500
 
-print(sempleDict['emp3'])
+print(f'sempleDict = {sempleDict}')
